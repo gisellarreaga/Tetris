@@ -130,5 +130,8 @@
   <ItemGroup>
     <Resource Include="fondoconadornos.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
